@@ -11,7 +11,7 @@ class CalculatorTest {
 
     private static final Logger logger = Logger.getLogger(CalculatorTest.class.getName());
 
-    private final int a = 0;
+    private final int a = 1;
     private final int b = 2;
 
 
